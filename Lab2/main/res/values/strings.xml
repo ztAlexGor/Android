@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="perimetr">Perimetr</string>
+    <string name="circle">Circle</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="chose_the_option">Chose the option</string>
+    <string name="chose_the_figure">Chose the figure</string>
+    <string name="result">TextView</string>
+    <string name="square">Square</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
