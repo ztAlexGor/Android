@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="perimetr">Perimetr</string>
+    <string name="circle">Circle</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="chose_the_option">Chose the option</string>
+    <string name="chose_the_figure">Chose the figure</string>
+    <string name="textview">TextView</string>
+    <string name="square">Square</string>
+</resources>
